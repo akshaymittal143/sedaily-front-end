@@ -45,7 +45,7 @@ npm run dev:api-prod
 `master` branch is deployed to production
 `develop` branch gets pushed to staging
 
-We have an active Slack community that you can reach out to for more information or just to chat with anyone. Check out the [<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" alt="Slack Channel" width="20px"/> SED app development](https://softwaredaily.slack.com/app_redirect?channel=sed_app_development) slack channel. Also see the [Open Source Guide](https://softwareengineeringdaily.github.io/).
+We have an active Slack community that you can reach out to for more information or just to chat with anyone. Check out the [<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" alt="Slack Channel" width="20px"/> SED app development](https://softwaredaily.slack.com/app_redirect?channel=sed_app_development) | [Join here](http://softwaredaily.herokuapp.com/). Also see the [Open Source Guide](https://softwareengineeringdaily.github.io/).
 
 ## Pushing to Production
 Remember to `npm run build` and then ** commit all new files** and then `npm run deploy2`
